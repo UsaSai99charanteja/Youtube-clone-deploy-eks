@@ -38,12 +38,12 @@ ArgoCD handles deployments, making updates seamless, and Slack keeps the team in
 
 ## Getting Started
 
-1. [Set up Jenkins](docs/setup-jenkins.md)
-2. [Configure AWS EKS](docs/configure-eks.md)
-3. [Integrate Docker and Trivy](docs/docker-trivy-integration.md)
-4. [Implement ArgoCD for Continuous Deployment](docs/argocd-setup.md)
-5. [Enhance Security with SonarQube](docs/sonarqube-setup.md)
-6. [Configure Prometheus and Grafana for Monitoring](docs/prometheus-grafana-setup.md)
+1. [Set up Jenkins]([docs/setup-jenkins.md](https://github.com/UsaSai99charanteja/Youtube_clone.git))
+2. [Configure AWS EKS]([docs/configure-eks.md](https://github.com/UsaSai99charanteja/Youtube_clone.git))
+3. [Integrate Docker and Trivy](https://github.com/UsaSai99charanteja/Youtube_clone.git)
+4. [Implement ArgoCD for Continuous Deployment](https://github.com/UsaSai99charanteja/Youtube_clone.git)
+5. [Enhance Security with SonarQube](https://github.com/UsaSai99charanteja/Youtube_clone.git)
+6. [Configure Prometheus and Grafana for Monitoring](https://github.com/UsaSai99charanteja/Youtube_clone.git)(
 
 ## Contributing
 
