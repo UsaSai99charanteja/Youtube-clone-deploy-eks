@@ -52,3 +52,8 @@ We welcome contributions! If you'd like to contribute, please follow our [Contri
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+<img width="1219" alt="Screenshot 2023-11-05 at 8 59 58 PM" src="https://github.com/UsaSai99charanteja/Youtube-clone-deploy-eks/assets/107063715/9300f9b4-169b-4dac-a2cc-da2fba74297a">
+<img width="1335" alt="Screenshot 2023-11-05 at 8 36 23 PM" src="https://github.com/UsaSai99charanteja/Youtube-clone-deploy-eks/assets/107063715/532780d7-0d91-4fa9-9d71-759c570193ac">
+<img width="1161" alt="Screenshot 2023-11-05 at 8 36 14 PM" src="https://github.com/UsaSai99charanteja/Youtube-clone-deploy-eks/assets/107063715/4d0192e8-0795-4029-874d-d0343119d1b9">
+
