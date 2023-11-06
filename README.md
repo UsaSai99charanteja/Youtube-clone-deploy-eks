@@ -1,7 +1,7 @@
 # Youtube-clone-deploy-eks
 # YouTube Clone Project
 
-![Project Preview](project_preview.png)
+!<img width="1219" alt="Screenshot 2023-11-05 at 8 59 58 PM" src="https://github.com/UsaSai99charanteja/Youtube-clone-deploy-eks/assets/107063715/9300f9b4-169b-4dac-a2cc-da2fba74297a">(project_preview.png)
 
 ## Overview
 
